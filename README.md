@@ -84,10 +84,12 @@ endmodule
 
 **RTL Schematic**
 
-FULL ADDER 
+**FULL ADDER**
+
 ![fulladd](https://github.com/user-attachments/assets/064ba51f-d2f4-4f6c-a501-7a08f4c9d1d8)
 
-FULL SUBTRACTOR
+**FULL SUBTRACTOR**
+
 ![fullsub](https://github.com/user-attachments/assets/b94e2f1d-e91b-4915-b291-3a7317304b46)
 
 **Output Timing Waveform**
